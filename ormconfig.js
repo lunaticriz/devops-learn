@@ -3,7 +3,7 @@ module.exports = {
   host: "db",
   port: 5432,
   username: "postgres",
-  password: "postgres",
+  password: "051091",
   database: "devdb",
   entities: ["dist/**/*.entity.js"],
   synchronize: true,
